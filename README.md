@@ -36,13 +36,13 @@
  <hr/>
 
  <div align="center">
-  <a href="https://leetcode.com/u/trungnhancse/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/trungnhancse?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Journey" />
+  <a href="https://leetcode.com/u/khoageocse/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/khoageocse?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Journey" />
   </a>
 
   <br><br>
 
-  <a href="https://leetcode.com/u/trungnhancse/" target="_blank">
+  <a href="https://leetcode.com/u/khoageocse/" target="_blank">
     <img src="https://img.shields.io/badge/LEETCODE-VIEW%20PROFILE-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile">
   </a>
 </div>
